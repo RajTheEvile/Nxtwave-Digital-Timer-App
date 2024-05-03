@@ -30,7 +30,7 @@ In this project, let's build a **Digital Timer App** by applying the concepts we
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionality added</summary>
 <br/>
 
 The app has the following functionalities
